@@ -16,10 +16,10 @@ A mappában:
         * vagy csak ismétlés lenne, valószínűleg egy másik példa python fájlban az a sor el van magyarázva
 
 ## Tartalomjegyzék:
-0. Miért PyQt5?
-1. Python, PyQt5, QtDesigner telepítés
-2. QtDesigner program áttekintése
-3. Widgetek bővebben
-4. Új ablak(ok) megnyitása
-5. Logging, threading
-6. Görbe plottolás
+0. [Miért PyQt5?](00_Miert_pyqt5/)
+1. [Python, PyQt5, QtDesigner telepítés](01_Telepites)
+2. [QtDesigner program áttekintése](02_korbe_jaras)
+3. [Widgetek bővebben](03_widgetek)
+4. [Új ablak(ok) megnyitása](04_Uj_ablakok)
+5. [Logging, threading](05_logging_threading)
+6. [Görbe plottolás](06_plottolas)
